@@ -80,6 +80,7 @@ def work(link):
 
 def main():
     work(r'https://down.ali213.net/pcgame/tmosth.html')
+    # work(r'https://down.ali213.net/pcgame/neophyte.html')
 
 
 if __name__ == '__main__':
